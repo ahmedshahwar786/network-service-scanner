@@ -23,6 +23,7 @@ Built using object-oriented principles and separated modules to demonstrate clea
 5. Results printed in readable format  
 
 ## Screenshot
+<img width="1755" height="785" alt="1" src="https://github.com/user-attachments/assets/06f9bb6b-aded-4ff0-ba8b-b6eb3105215b" />
 
 
 ## How to Compile & Run (Linux / macOS)
